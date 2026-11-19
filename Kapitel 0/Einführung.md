@@ -51,7 +51,7 @@ Hier ist eine ganz kurze Zusammenfassung:
 
 Mit dem Befehl `nslookup` in der Eingabeaufforderung lässt sich die IP-Adresse einer Domain herausfinden.
 
-* Die oberste Zeile (`Server`) zeigt den DNS-Server, der zuerst gefragt wurde (z. B. der Heim-Router).
+* Die oberste Zeile Server zeigt den DNS-Server, der zuerst gefragt wurde (z. B. der Heim-Router).
 * Die Adresse darunter zeigt die zugehörige IP-Adresse des Webservers.
 
 
@@ -69,4 +69,4 @@ Wenn du eine URL in den Browser eintippst, läuft im Hintergrund folgender Proze
 ### 3. Internet vs. World Wide Web (WWW)
 
 * **Das Internet:** Das weltweite physische Netzwerk aus miteinander verbundenen Rechnern und Infrastrukturen.
-* **Das World Wide Web (WWW):** Nur *einer* von vielen Diensten, die über das Internet laufen – konkret der Dienst, der Webseiten bereitstellt (neben E-Mail, Chats etc.).
+* **Das World Wide Web (WWW):** Nur einer von vielen Diensten, die über das Internet laufen – konkret der Dienst, der Webseiten bereitstellt (neben E-Mail, Chats etc.).
